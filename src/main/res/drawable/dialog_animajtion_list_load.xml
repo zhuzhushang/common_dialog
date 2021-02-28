@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/core_aistudy_load_0000_1" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0001_2" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0002_3" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0003_4" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0004_5" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0005_6" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0006_7" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0007_8" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0008_9" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0009_10" android:duration="40"/>
+    <item android:drawable="@drawable/core_aistudy_load_0010_11" android:duration="40"/>
+
+</animation-list>
